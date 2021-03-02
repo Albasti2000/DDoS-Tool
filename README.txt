@@ -3,7 +3,7 @@
 ## Installation
 
         pip3 install requests pysocks
-        git clone https://github.com/Albasti2000/DDoS
+        git clone https://github.com/Albasti2000/DDoS-Tool
         cd DDoS Tool
 
 
