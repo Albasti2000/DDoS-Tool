@@ -29,4 +29,5 @@ Est-ce que tu veux les enregistrés dans un fichier? (y/n, default=y)y
 Ils ont été sauvegarder socks5.txt.
 Entré la Magnification(default=100):300
 Activer le mode booster(y/n, default=n):y
-https://cdn.discordapp.com/attachments/801825231920037932/816223807357583380/DDoS_Tool.jpg
+
+![alt text](https://cdn.discordapp.com/attachments/801825231920037932/816223807357583380/DDoS_Tool.jpg) 
