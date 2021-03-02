@@ -30,4 +30,4 @@ Ils ont été sauvegarder socks5.txt.
 Entré la Magnification(default=100):300
 Activer le mode booster(y/n, default=n):y
 
-![alt text](https://cdn.discordapp.com/attachments/801825231920037932/816223807357583380/DDoS_Tool.jpg) 
+
